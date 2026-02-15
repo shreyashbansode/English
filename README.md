@@ -1,130 +1,168 @@
- 
----
-
-## 🟢 Present Tense
-
-### **1️⃣ Simple Present**
-
-| Helping Word | Marathi Sentence        | English Sentence     |
-| ------------ | ----------------------- | -------------------- |
-| **do**       | मी रोज व्यायाम करतो का? | Do I exercise daily? |
-| **does**     | तो काम करतो का?         | Does he work?        |
-| **does**     | ती चहा बनवते का?        | Does she make tea?   |
 
 ---
 
-### **2️⃣ Present Continuous**
+# 🟢 1) PRESENT TENSE (आत्ता / सवय / नुकतेच झाले)
 
-| Helping Word | Marathi Sentence | English Sentence |
-| ------------ | ---------------- | ---------------- |
-| **am**       | मी जेवत आहे      | I am eating      |
-| **is**       | तो झोपत आहे      | He is sleeping   |
-| **are**      | ते खेळत आहेत     | They are playing |
+## 🔹 Simple Present — *(सवय, रोजचं, facts)*
 
----
-
-### **3️⃣ Present Perfect**
-
-| Helping Word | Marathi Sentence         | English Sentence          |
-| ------------ | ------------------------ | ------------------------- |
-| **have**     | मी काम पूर्ण केले आहे    | I have finished the work  |
-| **has**      | तिने जेवण केले आहे       | She has eaten food        |
-| **have**     | आम्ही चित्रपट पाहिला आहे | We have watched the movie |
+| Helping Word | Marathi Sentence      | English Sentence         |
+| ------------ | --------------------- | ------------------------ |
+| do           | मी रोज व्यायाम करतो   | I do exercise daily      |
+| does         | तो ऑफिसला जातो        | He does go to the office |
+| —            | आम्ही इंग्लिश शिकतो   | We learn English         |
+| do           | तू क्रिकेट खेळतोस का? | Do you play cricket?     |
+| does         | ती चहा बनवते का?      | Does she make tea?       |
+| does         | तो तुला मदत करतो का?  | Does he help you?        |
 
 ---
 
-### **4️⃣ Present Perfect Continuous**
+## 🔹 Present Continuous — *(आत्ता चालू आहे)*
 
-| Helping Word  | Marathi Sentence             | English Sentence                     |
-| ------------- | ---------------------------- | ------------------------------------ |
-| **have been** | मी दोन तासांपासून वाचत आहे   | I have been reading for two hours    |
-| **has been**  | तो सकाळपासून काम करत आहे     | He has been working since morning    |
-| **have been** | आम्ही बराच वेळ वाट पाहत आहोत | We have been waiting for a long time |
-
----
-
-## 🔵 Past Tense
-
-### **5️⃣ Simple Past**
-
-| Helping Word | Marathi Sentence | English Sentence     |
-| ------------ | ---------------- | -------------------- |
-| **did**      | तू काम केले का?  | Did you do the work? |
-| **was**      | तो घरी होता      | He was at home       |
-| **were**     | ते शाळेत होते    | They were at school  |
+| Helping Word | Marathi Sentence      | English Sentence |
+| ------------ | --------------------- | ---------------- |
+| am           | मी जेवत आहे           | I am eating      |
+| is           | तो झोपत आहे           | He is sleeping   |
+| are          | ते खेळत आहेत          | They are playing |
+| are          | तुम्ही येत आहात का?   | Are you coming?  |
+| is           | ती अभ्यास करत आहे का? | Is she studying? |
+| am           | मी वाट पाहत आहे       | I am waiting     |
 
 ---
 
-### **6️⃣ Past Continuous**
-
-| Helping Word | Marathi Sentence     | English Sentence          |
-| ------------ | -------------------- | ------------------------- |
-| **was**      | मी टीव्ही पाहत होतो  | I was watching TV         |
-| **were**     | ते क्रिकेट खेळत होते | They were playing cricket |
-| **was**      | ती अभ्यास करत होती   | She was studying          |
-
----
-
-### **7️⃣ Past Perfect**
+## 🔹 Present Perfect — *(नुकतंच झालं आहे / result आहे)*
 
 | Helping Word | Marathi Sentence          | English Sentence          |
 | ------------ | ------------------------- | ------------------------- |
-| **had**      | मी येण्याआधी तो गेला होता | He had left before I came |
-| **had**      | आम्ही जेवण केले होते      | We had eaten food         |
-| **had**      | तिने फोन केला होता        | She had called            |
+| have         | मी काम पूर्ण केले आहे     | I have finished the work  |
+| has          | तिने जेवण केले आहे        | She has eaten             |
+| have         | आम्ही चित्रपट पाहिला आहे  | We have watched the movie |
+| have         | तू फोन केला आहेस का?      | Have you called?          |
+| has          | त्याने मेल पाठवला आहे का? | Has he sent the mail?     |
+| have         | मी हे आधी पाहिले आहे      | I have seen this before   |
 
 ---
 
-### **8️⃣ Past Perfect Continuous**
+## 🔹 Present Perfect Continuous — *(पूर्वीपासून आत्तापर्यंत चालू)*
 
-| Helping Word | Marathi Sentence          | English Sentence                    |
-| ------------ | ------------------------- | ----------------------------------- |
-| **had been** | मी दोन तास चालत होतो      | I had been walking for two hours    |
-| **had been** | तो सकाळपासून काम करत होता | He had been working since morning   |
-| **had been** | आम्ही बराच वेळ बोलत होतो  | We had been talking for a long time |
+| Helping Word | Marathi Sentence           | English Sentence                  |
+| ------------ | -------------------------- | --------------------------------- |
+| have been    | मी दोन तासांपासून वाचत आहे | I have been reading for two hours |
+| has been     | तो सकाळपासून काम करत आहे   | He has been working since morning |
+| have been    | आम्ही बराच वेळ बोलत आहोत   | We have been talking long         |
+| have been    | तू किती वेळ वाट पाहत आहेस? | Have you been waiting long?       |
+| has been     | ती अभ्यास करत आहे का?      | Has she been studying?            |
+| have been    | मी इंग्लिश शिकत आहे        | I have been learning English      |
 
 ---
 
-## 🟠 Future Tense
+# 🔵 2) PAST TENSE (काल / आधी / भूतकाळ)
 
-### **9️⃣ Simple Future**
+## 🔹 Simple Past — *(भूतकाळात झाले)*
+
+| Helping Word | Marathi Sentence     | English Sentence     |
+| ------------ | -------------------- | -------------------- |
+| did          | मी काम केले          | I did the work       |
+| was          | तो घरी होता          | He was at home       |
+| were         | ते शाळेत होते        | They were at school  |
+| did          | तू काम केले का?      | Did you do the work? |
+| did          | ती उशिरा आली का?     | Did she come late?   |
+| did          | त्यांनी फोन केला का? | Did they call?       |
+
+---
+
+## 🔹 Past Continuous — *(भूतकाळात चालू होतं)*
+
+| Helping Word | Marathi Sentence      | English Sentence   |
+| ------------ | --------------------- | ------------------ |
+| was          | मी टीव्ही पाहत होतो   | I was watching TV  |
+| was          | ती अभ्यास करत होती    | She was studying   |
+| were         | ते खेळत होते          | They were playing  |
+| were         | तुम्ही झोपले होते का? | Were you sleeping? |
+| was          | तो काम करत होता का?   | Was he working?    |
+| was          | मी बोलत होतो          | I was talking      |
+
+---
+
+## 🔹 Past Perfect — *(एका भूतकाळाच्या आधी झाले)*
+
+| Helping Word | Marathi Sentence                | English Sentence          |
+| ------------ | ------------------------------- | ------------------------- |
+| had          | तो माझ्या येण्याआधी गेला होता   | He had left before I came |
+| had          | आम्ही जेवण केले होते            | We had eaten              |
+| had          | तिने फोन केला होता              | She had called            |
+| had          | तू आधी पाहिले होते का?          | Had you seen it before?   |
+| had          | त्यांनी काम पूर्ण केले होते का? | Had they finished?        |
+| had          | मी त्याला भेटलो होतो            | I had met him             |
+
+---
+
+## 🔹 Past Perfect Continuous — *(पूर्वीपासून तेव्हा पर्यंत चालू होतं)*
+
+| Helping Word | Marathi Sentence          | English Sentence                  |
+| ------------ | ------------------------- | --------------------------------- |
+| had been     | मी दोन तास चालत होतो      | I had been walking for two hours  |
+| had been     | तो सकाळपासून काम करत होता | He had been working since morning |
+| had been     | आम्ही वाट पाहत होतो       | We had been waiting               |
+| had been     | तू किती वेळ शिकत होतास?   | Had you been studying long?       |
+| had been     | ती रडत होती का?           | Had she been crying?              |
+| had been     | मी त्याची वाट पाहत होतो   | I had been waiting for him        |
+
+---
+
+# 🟠 3) FUTURE TENSE (उद्या / पुढे)
+
+## 🔹 Simple Future — *(पुढे होईल)*
 
 | Helping Word | Marathi Sentence | English Sentence     |
 | ------------ | ---------------- | -------------------- |
-| **will**     | मी उद्या येईन    | I will come tomorrow |
-| **will**     | तो मदत करेल      | He will help         |
-| **will**     | आम्ही जिंकू      | We will win          |
+| will         | मी उद्या येईन    | I will come tomorrow |
+| will         | तो मदत करेल      | He will help         |
+| will         | आम्ही जिंकू      | We will win          |
+| will         | तू येशील का?     | Will you come?       |
+| will         | ती फोन करेल का?  | Will she call?       |
+| will         | ते सुरुवात करतील | They will start      |
 
 ---
 
-### **🔟 Future Continuous**
+## 🔹 Future Continuous — *(पुढे त्या वेळेला चालू असेल)*
 
-| Helping Word | Marathi Sentence      | English Sentence           |
-| ------------ | --------------------- | -------------------------- |
-| **will be**  | मी उद्या काम करत असेन | I will be working tomorrow |
-| **will be**  | तो प्रवास करत असेल    | He will be traveling       |
-| **will be**  | ते वाट पाहत असतील     | They will be waiting       |
-
----
-
-### **1️⃣1️⃣ Future Perfect**
-
-| Helping Word  | Marathi Sentence            | English Sentence                  |
-| ------------- | --------------------------- | --------------------------------- |
-| **will have** | मी येईपर्यंत तो निघाला असेल | He will have left before I arrive |
-| **will have** | आम्ही काम पूर्ण केले असेल   | We will have finished the work    |
-| **will have** | ती जेवण केले असेल           | She will have eaten food          |
+| Helping Word | Marathi Sentence       | English Sentence           |
+| ------------ | ---------------------- | -------------------------- |
+| will be      | मी उद्या काम करत असेन  | I will be working tomorrow |
+| will be      | तो प्रवास करत असेल     | He will be traveling       |
+| will be      | आम्ही वाट पाहत असू     | We will be waiting         |
+| will be      | तू झोपलेला असशील का?   | Will you be sleeping?      |
+| will be      | ती अभ्यास करत असेल का? | Will she be studying?      |
+| will be      | ते खेळत असतील          | They will be playing       |
 
 ---
 
-### **1️⃣2️⃣ Future Perfect Continuous**
+## 🔹 Future Perfect — *(त्या वेळेपर्यंत पूर्ण झाले असेल)*
 
-| Helping Word       | Marathi Sentence            | English Sentence                          |
-| ------------------ | --------------------------- | ----------------------------------------- |
-| **will have been** | मी दोन तासांपासून शिकत असेन | I will have been studying for two hours   |
-| **will have been** | तो सकाळपासून वाट पाहत असेल  | He will have been waiting since morning   |
-| **will have been** | आम्ही बराच वेळ काम करत असू  | We will have been working for a long time |
+| Helping Word | Marathi Sentence            | English Sentence                  |
+| ------------ | --------------------------- | --------------------------------- |
+| will have    | तो येईपर्यंत निघाला असेल    | He will have left before I arrive |
+| will have    | आम्ही काम पूर्ण केले असेल   | We will have finished             |
+| will have    | ती जेवण केले असेल           | She will have eaten               |
+| will have    | तू पोहोचला असशील का?        | Will you have reached?            |
+| will have    | त्यांनी मेल पाठवला असेल का? | Will they have sent the mail?     |
+| will have    | मी हे पूर्ण केले असेल       | I will have completed this        |
 
 ---
 
- 
+## 🔹 Future Perfect Continuous — *(त्या वेळेपर्यंत चालू असेल)*
+
+| Helping Word   | Marathi Sentence            | English Sentence                        |
+| -------------- | --------------------------- | --------------------------------------- |
+| will have been | मी दोन तासांपासून शिकत असेन | I will have been studying for two hours |
+| will have been | तो सकाळपासून काम करत असेल   | He will have been working since morning |
+| will have been | आम्ही वाट पाहत असू          | We will have been waiting               |
+| will have been | तू किती वेळ काम करत असशील?  | Will you have been working long?        |
+| will have been | ती शिकत असेल का?            | Will she have been studying?            |
+| will have been | ते खेळत असतील               | They will have been playing             |
+
+---
+
+
+फक्त सांग:
+**PDF हवा / Practice हवी / Speaking test हवा** 🙂
